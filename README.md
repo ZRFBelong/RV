@@ -1,6 +1,4 @@
-# **RV This chapter contains the point of THE RV developing **
-
-# **学习RV指令以及基于GNU开发工具链**
+**学习RV指令以及基于GNU开发工具链**
 
 一、RV介绍
     1、认识RV内核
